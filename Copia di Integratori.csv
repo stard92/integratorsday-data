@@ -1,0 +1,10 @@
+﻿Nome Integratore,Giorni,Orario,Quantità (mg),Dose,Condizione,Allenamento
+Rhodiola Rosea,Lun-Mar-Mer-Ven-Dom,Mattina,500,1,VUOTO,
+CoQ10,Lun-Mar-Dom,Mattina,200,1,PIENO,
+CoQ10,Mer-Ven,Pranzo,200,1,PIENO,
+Two-Per-Day,Tutti,Mattina-Pranzo,500,1+1,PIENO,
+Omega-3,Lun-Mer-Ven-Dom,Pranzo-Cena,1000,1+1,PIENO,
+Omega-3,Mar-Gio-Sab,Cena,1000,1,PIENO,
+Magnesio Citrate,Tutti,Cena,440,2,PIENO,
+Black Maca,Tutti,Mattina,5550,1,PIENO,
+L-Carnitina,,1h pre-allenamento,2000,3,VUOTO,PRE
