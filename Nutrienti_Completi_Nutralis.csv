@@ -2,7 +2,6 @@ Nutriente,Simbolo,Unità,Categoria,Priorità_generica,Priorità_stile,Priorità_
 Carboidrati,CHO,g,MACRO,,,
 Grassi,FAT,g,MACRO,,,
 Proteine,PROT,g,MACRO,,,
-Acido folico,B9,mcg,MICRO,,,
 Biotina,Bio,mcg,MICRO,,,
 Boro,B,mg,MICRO,,,
 Calcio,CA,,MICRO,,,
