@@ -20,7 +20,7 @@ Vitamina B12,B12,MICRO,2,2,2
 Vitamina C,VC,MICRO,2,1,2
 Vitamina D,VD,MICRO,1,1,1
 Vitamina E,E,MICRO,2,2,2
-Vitamina K,K,MICRO,2,2,2
+Vitamina K,K12,MICRO,2,2,2
 Calcio,CA,MICRO,2,2,2
 Ferro,FE,MICRO,2,1,2
 Magnesio,MG,MICRO,2,1,1
@@ -30,4 +30,10 @@ Selenio,SE,MICRO,2,2,2
 Iodio,I,MICRO,2,2,2
 Fosforo,P,SENS,2,2,2
 Cloro,CL,SENS,2,2,2
-Potassio,K+,MICRO,2,2,2
+Potassio,K,MICRO,2,2,2
+Carnitina,CAT,SENS,3,1,2
+Rhodiola,RHD,SENS,3,2,3
+Salidrosidi,SLS,MICRO,3,3,3
+Coenzima,CQ10,SENS,3,1,3
+Omega3(EPA),MICRO,2,2,2
+Omega3(DHA),MICRO,2,2,2
