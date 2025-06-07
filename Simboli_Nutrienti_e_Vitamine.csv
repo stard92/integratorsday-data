@@ -1,0 +1,33 @@
+Nome,Simbolo,Categoria,PrioritÃ _generica,PrioritÃ _stile_sportivo,PrioritÃ _obiettivo_massa
+Proteine,PROT,MACRO,1,1,1
+Carboidrati,CHO,MACRO,1,1,1
+Grassi,FAT,MACRO,1,1,1
+Fibre,FIB,SENS,2,1,2
+Calorie,KCAL,MACRO,1,2,1
+Zuccheri,SUGAR,SENS,2,2,3
+Etanolo,ET,SENS,3,3,3
+Caffeina,CAFF,SENS,3,2,2
+Sodio,NA,SENS,2,2,3
+Vitamina A,A,MICRO,2,2,2
+Vitamina B1,B1,MICRO,2,2,2
+Vitamina B2,B2,MICRO,2,2,2
+Vitamina B3,B3,MICRO,2,2,2
+Vitamina B5,B5,MICRO,2,2,2
+Vitamina B6,B6,MICRO,2,2,2
+Vitamina B7,B7,MICRO,2,2,2
+Vitamina B9,B9,MICRO,2,2,2
+Vitamina B12,B12,MICRO,2,2,2
+Vitamina C,VC,MICRO,2,1,2
+Vitamina D,VD,MICRO,1,1,1
+Vitamina E,E,MICRO,2,2,2
+Vitamina K,K,MICRO,2,2,2
+Calcio,CA,MICRO,2,2,2
+Ferro,FE,MICRO,2,1,2
+Magnesio,MG,MICRO,2,1,1
+Zinco,ZN,MICRO,2,1,1
+Rame,CU,MICRO,2,2,2
+Selenio,SE,MICRO,2,2,2
+Iodio,I,MICRO,2,2,2
+Fosforo,P,SENS,2,2,2
+Cloro,CL,SENS,2,2,2
+Potassio,K+,MICRO,2,2,2
